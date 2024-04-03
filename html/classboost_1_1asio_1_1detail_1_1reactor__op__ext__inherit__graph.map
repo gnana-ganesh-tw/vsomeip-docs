@@ -1,0 +1,10 @@
+<map id="boost::asio::detail::reactor_op_ext" name="boost::asio::detail::reactor_op_ext">
+<area shape="rect" id="node1" title=" " alt="" coords="136,115,261,156"/>
+<area shape="rect" id="node3" href="$classboost_1_1asio_1_1detail_1_1reactive__socket__recv__op__base__ext.html" title=" " alt="" coords="309,17,575,73"/>
+<area shape="rect" id="node5" href="$classboost_1_1asio_1_1detail_1_1reactive__socket__recvfrom__op__base__ext.html" title=" " alt="" coords="313,100,571,171"/>
+<area shape="rect" id="node7" href="$classboost_1_1asio_1_1detail_1_1reactive__socket__recvmsg__op__base__ext.html" title=" " alt="" coords="309,198,575,254"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,122,88,149"/>
+<area shape="rect" id="node4" href="$classboost_1_1asio_1_1detail_1_1reactive__socket__recv__op__ext.html" title=" " alt="" coords="623,5,845,76"/>
+<area shape="rect" id="node6" href="$classboost_1_1asio_1_1detail_1_1reactive__socket__recvfrom__op__ext.html" title=" " alt="" coords="623,100,845,171"/>
+<area shape="rect" id="node8" href="$classboost_1_1asio_1_1detail_1_1reactive__socket__recvmsg__op__ext.html" title=" " alt="" coords="623,195,845,265"/>
+</map>

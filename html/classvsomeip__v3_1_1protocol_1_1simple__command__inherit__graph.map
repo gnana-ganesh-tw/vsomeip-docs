@@ -1,0 +1,9 @@
+<map id="vsomeip_v3::protocol::simple_command" name="vsomeip_v3::protocol::simple_command">
+<area shape="rect" id="node1" title=" " alt="" coords="200,151,347,193"/>
+<area shape="rect" id="node3" href="$classvsomeip__v3_1_1protocol_1_1deregister__application__command.html" title=" " alt="" coords="406,5,562,61"/>
+<area shape="rect" id="node4" href="$classvsomeip__v3_1_1protocol_1_1ping__command.html" title=" " alt="" coords="411,86,557,127"/>
+<area shape="rect" id="node5" href="$classvsomeip__v3_1_1protocol_1_1pong__command.html" title=" " alt="" coords="411,151,557,193"/>
+<area shape="rect" id="node6" href="$classvsomeip__v3_1_1protocol_1_1registered__ack__command.html" title=" " alt="" coords="395,217,573,258"/>
+<area shape="rect" id="node7" href="$classvsomeip__v3_1_1protocol_1_1suspend__command.html" title=" " alt="" coords="411,282,557,323"/>
+<area shape="rect" id="node2" href="$classvsomeip__v3_1_1protocol_1_1command.html" title=" " alt="" coords="5,151,152,193"/>
+</map>

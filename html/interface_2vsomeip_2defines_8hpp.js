@@ -1,0 +1,28 @@
+var interface_2vsomeip_2defines_8hpp =
+[
+    [ "VSOMEIP_CLIENT_POS_MAX", "interface_2vsomeip_2defines_8hpp.html#ab6cc1a335ef7c3d025cf34b418af579e", null ],
+    [ "VSOMEIP_CLIENT_POS_MIN", "interface_2vsomeip_2defines_8hpp.html#a03f1ecf5f73064f9545acdfc7225c87a", null ],
+    [ "VSOMEIP_EVENT_POS_MAX", "interface_2vsomeip_2defines_8hpp.html#aaa7be2a27b26cbd716882ec555e323a6", null ],
+    [ "VSOMEIP_EVENT_POS_MIN", "interface_2vsomeip_2defines_8hpp.html#afd5464369cdd5b6d838d2a8e2af6d957", null ],
+    [ "VSOMEIP_FULL_HEADER_SIZE", "interface_2vsomeip_2defines_8hpp.html#a4ed928ee62314def71525ef682102ed7", null ],
+    [ "VSOMEIP_INTERFACE_VERSION_POS", "interface_2vsomeip_2defines_8hpp.html#a24b69e59adfb0d183bfcac722cf0fe2d", null ],
+    [ "VSOMEIP_LENGTH_POS_MAX", "interface_2vsomeip_2defines_8hpp.html#ac5436d1050fa4761a1c59dce748e8d01", null ],
+    [ "VSOMEIP_LENGTH_POS_MIN", "interface_2vsomeip_2defines_8hpp.html#a501b2457f6e884b382e62f65d9c1813d", null ],
+    [ "VSOMEIP_MAX_LOCAL_MESSAGE_SIZE", "interface_2vsomeip_2defines_8hpp.html#a413466e67bef0bda56d97594869e7cd2", null ],
+    [ "VSOMEIP_MAX_TCP_MESSAGE_SIZE", "interface_2vsomeip_2defines_8hpp.html#a1b605a8875c211c8cd0a0e602098f2b7", null ],
+    [ "VSOMEIP_MAX_UDP_MESSAGE_SIZE", "interface_2vsomeip_2defines_8hpp.html#a417ee7b0580d52055928a9e65620232c", null ],
+    [ "VSOMEIP_MESSAGE_TYPE_POS", "interface_2vsomeip_2defines_8hpp.html#ac99879a2bfee7c8f51f4b4f64583d1a4", null ],
+    [ "VSOMEIP_METHOD_POS_MAX", "interface_2vsomeip_2defines_8hpp.html#a582e9babda2e1707d00a2fe084cdd06a", null ],
+    [ "VSOMEIP_METHOD_POS_MIN", "interface_2vsomeip_2defines_8hpp.html#abbb48fb37731432c5dd754dad0a9e026", null ],
+    [ "VSOMEIP_PACKET_SIZE", "interface_2vsomeip_2defines_8hpp.html#a6953d475bcc6fae04ce1733264ac09e7", null ],
+    [ "VSOMEIP_PAYLOAD_POS", "interface_2vsomeip_2defines_8hpp.html#a1bda1a03290ef6a8fb5f93775414948a", null ],
+    [ "VSOMEIP_PROTOCOL_VERSION", "interface_2vsomeip_2defines_8hpp.html#adb41ee036a714ab39f212376ddf88f44", null ],
+    [ "VSOMEIP_PROTOCOL_VERSION_POS", "interface_2vsomeip_2defines_8hpp.html#a464d69c9ccb39a00c5fb9680176de63e", null ],
+    [ "VSOMEIP_RETURN_CODE_POS", "interface_2vsomeip_2defines_8hpp.html#a2d1bd4baa79e70933d82881d4408cb9e", null ],
+    [ "VSOMEIP_SERVICE_POS_MAX", "interface_2vsomeip_2defines_8hpp.html#ad5dc258a7ab35c9f50ee1a1e14bc1e4f", null ],
+    [ "VSOMEIP_SERVICE_POS_MIN", "interface_2vsomeip_2defines_8hpp.html#a691cbff1713cea42c7d08bb00241084b", null ],
+    [ "VSOMEIP_SESSION_POS_MAX", "interface_2vsomeip_2defines_8hpp.html#aca4edb2255047934e23a134e7378559e", null ],
+    [ "VSOMEIP_SESSION_POS_MIN", "interface_2vsomeip_2defines_8hpp.html#a0475a532e81fe09a71ffb1c57e8e7a30", null ],
+    [ "VSOMEIP_SOMEIP_HEADER_SIZE", "interface_2vsomeip_2defines_8hpp.html#a2d199b18bdd4b789378916776a848f74", null ],
+    [ "VSOMEIP_SOMEIP_MAGIC_COOKIE_SIZE", "interface_2vsomeip_2defines_8hpp.html#abd2444d9a5b7575b803a4aefbef30e1c", null ]
+];

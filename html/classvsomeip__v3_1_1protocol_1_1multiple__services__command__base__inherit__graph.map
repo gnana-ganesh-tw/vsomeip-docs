@@ -1,0 +1,6 @@
+<map id="vsomeip_v3::protocol::multiple_services_command_base" name="vsomeip_v3::protocol::multiple_services_command_base">
+<area shape="rect" id="node1" title=" " alt="" coords="200,50,431,91"/>
+<area shape="rect" id="node3" href="$classvsomeip__v3_1_1protocol_1_1offered__services__response__command.html" title=" " alt="" coords="479,5,665,61"/>
+<area shape="rect" id="node4" href="$classvsomeip__v3_1_1protocol_1_1request__service__command.html" title=" " alt="" coords="479,86,665,127"/>
+<area shape="rect" id="node2" href="$classvsomeip__v3_1_1protocol_1_1command.html" title=" " alt="" coords="5,50,152,91"/>
+</map>
